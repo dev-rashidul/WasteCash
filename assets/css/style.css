@@ -234,7 +234,7 @@ a.nav-btn::after {
   background: url(../images/join.png);
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 100px 0;
+  padding: 120px 0;
 }
 
 .join-content {
