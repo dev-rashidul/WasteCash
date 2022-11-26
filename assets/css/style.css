@@ -59,7 +59,7 @@ nav.navbar {
 }
 
 .logo img {
-  max-width: 175px;
+  max-width: 65px;
   width: 100%;
 }
 
@@ -307,7 +307,11 @@ a.nav-btn::after {
     font-size: 30px;
     line-height: 40px;
   }
+  .steps-content h3 {
+    margin: auto;
+  }
   .steps-content p {
     font-size: 20px;
+    padding-top: 20px;
   }
 }
